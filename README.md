@@ -29,14 +29,6 @@ music-dashboard/
 
 ---
 
-## 📸 Preview
-
-You can preview this project by opening `index.html` directly in your browser.
-
-![Preview](https://via.placeholder.com/900x450?text=Music+Dashboard+Preview)
-
----
-
 ## 🧪 How to Use
 
 1. **Clone this repository** or download the ZIP.
